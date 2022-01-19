@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAGA,EACE,OAAA,EACA,QAAA,EACA,WAAA,WAKF,KACE,sBAAA","file":"style.css","sourcesContent":["\n/* ---------  GLOBAL STYLES  --------- */\n\n* {\n  margin: 0px;\n  padding: 0px;\n  box-sizing: border-box;\n}\n\n\n\nbody {\n  background-attachment: fixed;\n}\n"]}
